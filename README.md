@@ -1,6 +1,6 @@
 directory.io
 ============
-
+bit wikik http://davidederosa.com/basic-blockchain-programming/serialization-part-one/
 ##### [Install Go](http://golang.org/doc/install)
 
 ##### Install dependencies:
